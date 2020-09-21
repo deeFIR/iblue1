@@ -1,1 +1,2 @@
-theme: jekyll-theme-tactile
+# _config.yml
+remote_theme: minimal-mistakes
